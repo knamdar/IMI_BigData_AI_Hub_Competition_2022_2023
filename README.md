@@ -95,7 +95,7 @@ The pipeline was developed with a modular design approach. We put codes, inputs,
 9. Bonus_MeasuringRandomness: Going back to task2 and stusying the effect of model initialization and data split on its generalizability
 10. Bonus_MultiProcessing: Accelerating the pipeline using Multi-processing
 
-P.S.
+P.S.\
 11. Bonus_EDA: Exploratory Data Analysis for tasks 2 and 3
 12. Bonus_task2_VAE: Exploring the potential of VAEs for task2_A
 

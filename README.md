@@ -60,7 +60,12 @@
 <!-- ABOUT THE PROJECT -->
 ## The Team
 
-We had a diverse and amazing team of determined UofT students, with 
+Jay Yoo
+Ashima Singhal
+Manas Joshi
+Akash Kothari
+Safwat Khan
+Ernest (Khashayar) Namdar
 
 
 

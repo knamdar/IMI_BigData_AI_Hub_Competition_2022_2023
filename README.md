@@ -96,7 +96,7 @@ The pipeline was developed with a modular design approach. We put codes, inputs,
 10. Bonus_MultiProcessing: Accelerating the pipeline using Multi-processing
 
 P.S.\
-11. Bonus_EDA: Exploratory Data Analysis for tasks 2 and 3
+11. Bonus_EDA: Exploratory Data Analysis for tasks 2 and 3\
 12. Bonus_task2_VAE: Exploring the potential of VAEs for task2_A
 
 

@@ -27,3 +27,4 @@ Pipeline/Bonus_EDA/train_df_cluster_dbscan_6_v6.0.csv
 Pipeline/Bonus_EDA/dataset/UofT_nodes.csv
 Pipeline/Bonus_EDA/dataset/UofT_edges.csv
 Pipeline/Bonus_EDA/dataset/risk_sheet.xlsx
+Pipeline/Bonus_EDA/dtreeviz/

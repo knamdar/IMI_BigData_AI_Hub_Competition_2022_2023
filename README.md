@@ -60,12 +60,12 @@
 <!-- ABOUT THE PROJECT -->
 ## The Team
 
-Jay Yoo
-Ashima Singhal
-Manas Joshi
-Akash Kothari
-Safwat Khan
-Ernest (Khashayar) Namdar
+* Jay Yoo
+* Ashima Singhal
+* Manas Joshi
+* Akash Kothari
+* Safwat Khan
+* Ernest (Khashayar) Namdar
 
 
 

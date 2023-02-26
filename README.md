@@ -19,10 +19,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Team 44</h3>
 
   <p align="center">
-    The 2022-2023 IMI BIGDataAIHUB Case Competition, Team 44
+    The 2022-2023 IMI BIGDataAIHUB Case Competition
     <br />
     <a href="https://github.com/knamdar/IMI_BIGDataAIHUB/tree/master/documents"><strong>Explore the docs »</strong></a>
     <br />
@@ -204,7 +204,11 @@ Project Link: [https://github.com/knamdar/IMI_BIGDataAIHUB](https://github.com/k
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
+* [Faiss, a library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
 * [NVIDIA DLI Course: Introduction to Graph Neural Networks](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-05+V1/)
+* [Plotting Confusion Matrix](https://github.com/DTrimarchi10/confusion_matrix/)
+* [Creating the README](https://github.com/othneildrew/Best-README-Template)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

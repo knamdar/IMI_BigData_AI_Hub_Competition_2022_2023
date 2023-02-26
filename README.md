@@ -68,6 +68,7 @@
 ### Built With
 
 * ![PyTorch][pytoch]
+* ![scikit-learn][scikit-learn-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,6 +81,16 @@ The pipeline was developed with a modular design approach. We put codes, inputs,
 
 ![Product Name Screen Shot][product-screenshot]
 
+* 1. task1_score: adding QUERY_RISK to the features for each customer based on the similarity of BERT embeddings of their name and birth date to the entries of OpenData dataset
+* 2. task1_identify: deriving the list of bad actors based on two different approachs: v1) using QUERY_RISK and a DecisionTree that is trained to predict RISK v2) matching name and birth date of the customers to OpenData entries
+* 3. task1_identify_overlap: checking whether v1 and v2 bad actors would overlap
+* 4. task2_A: Using the features (with and without QUERY_RISK) to predict the RISK with XGBoost and CatBoost models
+* 5. task2_B: Using the features (with and without QUERY_RISK) to identify the Bad Actors with XGBoost and CatBoost models
+* 6. task3_preprocessing: combining the node and edge data to be used by GCNs
+* 7. task3_A: Using the preprocessed node and edge data to predict the RISK with GCNs
+* 8. task3_B: Using the preprocessed node and edge data to identify the Bad Actors with GCNs
+* 9. Bonus_MeasuringRandomness: Going back to task2 and stusying the effect of model initialization and data split on its generalizability
+* 10. Bonus_MultiProcessing: Accelerating the pipeline using Multi-processing
 
 
 <!-- LICENSE -->

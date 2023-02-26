@@ -123,3 +123,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [product-screenshot]: images/screenshot.png
 [pytoch-url]: https://pytorch.org/
 [pytoch]: https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white
+[scikit-learn-url]: https://scikit-learn.org/
+[scikit-learn]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white

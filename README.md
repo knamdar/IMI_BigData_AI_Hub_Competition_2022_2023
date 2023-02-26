@@ -49,7 +49,6 @@
 </details>
 
 
-[![Product Name Screen Shot][product-screenshot]]
 <!-- ABOUT THE PROJECT -->
 ## The Team
 
@@ -68,7 +67,7 @@
 
 ### Built With
 
-* [![PyTorch][pytoch]]
+* ![PyTorch][pytoch]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,9 +76,9 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+The pipeline was developed with a modular design approach. We put codes, inputs, and results of each module in a separate directory, illustrated in the following image:
 
+![Product Name Screen Shot][product-screenshot]
 
 
 

@@ -84,8 +84,8 @@ The pipeline was developed with a modular design approach. We put codes, inputs,
 
 1. task1_score: adding QUERY_RISK to the features for each customer based on the similarity of BERT embeddings of their name and birth date to the entries of OpenData dataset
 2. task1_identify: deriving the list of bad actors based on two different approachs: 
-  + v1) using QUERY_RISK and a DecisionTree that is trained to predict RISK 
-  + v2) matching name and birth date of the customers to OpenData entries
+    + v1) using QUERY_RISK and a DecisionTree that is trained to predict RISK 
+    + v2) matching name and birth date of the customers to OpenData entries
 3. task1_identify_overlap: checking whether v1 and v2 bad actors would overlap
 4. task2_A: Using the features (with and without QUERY_RISK) to predict the RISK with XGBoost and CatBoost models
 5. task2_B: Using the features (with and without QUERY_RISK) to identify the Bad Actors with XGBoost and CatBoost models
@@ -138,4 +138,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [pytoch-url]: https://pytorch.org
 [pytoch]: https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white
 [scikit-learn-url]: https://scikit-learn.org
-[scikit-learn]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
+#[scikit-learn]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
+[scikit-learn]:(https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)

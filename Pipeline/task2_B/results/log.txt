@@ -1,0 +1,18 @@
+Evaluating XGB on the whole dataset
+AUC score: 0.8500611549091395
+
+
+Evaluating XGB on the balanced dataset
+AUC score: 0.8954315886134068
+
+
+Evaluating CatBoost on the balanced dataset
+AUC score: 0.9129935720844812
+
+
+Evaluating XGB on the balanced dataset without QUERY_RISK
+AUC score: 0.6046831955922864
+
+
+Evaluating CatBoost on the balanced dataset without QUERY_RISK
+AUC score: 0.6314279155188245

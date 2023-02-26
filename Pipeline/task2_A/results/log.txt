@@ -1,0 +1,25 @@
+Evaluating XGB on the whole dataset
+
+precision: [0.9994204  0.92761911 0.69579851]
+recall: [0.99995334 0.96960883 0.47395051]
+fscore: [0.9996868  0.94814931 0.56383729]
+support: [150023  87328  12649]
+ovr AUC score: 0.9905166211997236
+
+
+Evaluating XGB on the balanced dataset
+
+precision: [0.99709028 0.90561248 0.82362777]
+recall: [0.99976344 0.80438109 0.91355536]
+fscore: [0.99842507 0.85200034 0.86626395]
+support: [12682 12417 12401]
+ovr AUC score: 0.9771110333241094
+
+
+Evaluating CatBoost on the balanced dataset
+
+precision: [0.99576005 0.90613491 0.82957963]
+recall: [1.         0.81243457 0.91186195]
+fscore: [0.99787552 0.85673036 0.86877689]
+support: [12682 12417 12401]
+ovr AUC score: 0.9783908720810484

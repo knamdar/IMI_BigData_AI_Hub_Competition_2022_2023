@@ -92,12 +92,14 @@ The pipeline was developed with a modular design approach. We put codes, inputs,
 6. task3_preprocessing: combining the node and edge data to be used by GCNs
 7. task3_A: Using the preprocessed node and edge data to predict the RISK with GCNs
 8. task3_B: Using the preprocessed node and edge data to identify the Bad Actors with GCNs
-9. Bonus_MeasuringRandomness: Going back to task2 and stusying the effect of model initialization and data split on its generalizability
-10. Bonus_MultiProcessing: Accelerating the pipeline using Multi-processing
-
-P.S.\
-11. task3_C_EDA: Exploratory Data Analysis for tasks 2 and 3\
-12. Bonus_task2_VAE: Exploring the potential of VAEs for task2_A
+9. task3_C_EDA: Exploratory Data Analysis for tasks 2 and 3
+10. Bonus_task2_VAE: Exploring the potential of VAEs for task2_A
+11. Bonus_MeasuringRandomness: Going back to task2 and studying the effect of model initialization and data split on its generalizability
+12. Bonus_MultiProcessing: Accelerating the pipeline using Multi-processing
+13. Bonus_SensitivityAnalysis: Dataset size sensitivity analysis: Do we need all the data for training?
+14. Bonus_GeneticAlgorithm_Hyperparameter_Tuning: Utilizing Genetic Algorithm for tuning the hyperparameters of the models
+15. Bonus_MegaTest: Evaluating the models with bigger test cohorts
+16. Bonus_feature_injection: Utilizing graph structures for data augmnetation
 
 
 <!-- LICENSE -->

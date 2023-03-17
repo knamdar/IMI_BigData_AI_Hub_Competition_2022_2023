@@ -69,7 +69,6 @@
 
 ![PyTorch][pytoch]
 
-![scikit-learn][scikit-learn-url]
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

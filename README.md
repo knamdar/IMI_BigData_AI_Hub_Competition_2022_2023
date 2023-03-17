@@ -123,7 +123,7 @@ Project Link: [https://github.com/knamdar/IMI_BIGDataAIHUB](https://github.com/k
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+The resources we found helpful and would like to give credit to.
 
 * [Faiss, a library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
 * [NVIDIA DLI Course: Introduction to Graph Neural Networks](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-05+V1/)

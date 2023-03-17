@@ -50,3 +50,4 @@ Pipeline/Bonus_SensitivityAnalysis/data/risk_sheet.xlsx
 Pipeline/Bonus_MegaTest/data/risk_sheet.xlsx
 Pipeline/Bonus_GeneticAlgorithm_Hyperparameter_Tuning/data/risk_sheet.xlsx
 Pipeline/Bonus_feature_injection/data/preprocessed_risk_sheet.xlsx
+Pipeline/Bonus_task2_VAE/data/risk_sheet.xlsx

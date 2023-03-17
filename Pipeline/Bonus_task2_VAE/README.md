@@ -2,4 +2,4 @@ Task2_AIHub.ipynb is a Jupyter Notebook that can be run to train 5 models for ri
 
 This directory should include a subdirectory named "data" that contains risk_sheet.xlsx.
 
-The trained model is found in task2_model.pt.
+The trained model is found in task2_model.pt

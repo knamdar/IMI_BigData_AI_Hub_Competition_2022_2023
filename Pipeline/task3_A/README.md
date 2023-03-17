@@ -1,4 +1,4 @@
-# Feature Injection
+# Task 3, Part A
 1. code:
     + cf_matrix.py: utility file for plotting confusion matrices
     + dataset.py: creating a DGL graph to be used for data augmentation (from task3, for RISK classification)

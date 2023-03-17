@@ -46,3 +46,7 @@ Pipeline/task3_C_EDA/dataset/UofT_nodes.csv
 Pipeline/task3_C_EDA/dataframes_created/train_df_cluster_kmeans_5_v5.0.csv
 Pipeline/task3_C_EDA/dataframes_created/train_df_cluster_kmeans_2_v2.0.csv
 Pipeline/task3_C_EDA/dtreeviz/
+Pipeline/Bonus_SensitivityAnalysis/data/risk_sheet.xlsx
+Pipeline/Bonus_MegaTest/data/risk_sheet.xlsx
+Pipeline/Bonus_GeneticAlgorithm_Hyperparameter_Tuning/data/risk_sheet.xlsx
+Pipeline/Bonus_feature_injection/data/preprocessed_risk_sheet.xlsx

@@ -1,0 +1,8 @@
+N=1, t=12min
+
+The run was completed in:  258 minutes and  49 seconds
+
+mean AUC for XGBoost: 0.9760198668705776 with average range of 0.0028855441162092617
+mean AUC for CatBoost: 0.9775016722672425 with average range of 0.0026921127721397362
+
+

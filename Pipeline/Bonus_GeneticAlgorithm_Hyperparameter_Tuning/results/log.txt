@@ -1,0 +1,10 @@
+baseline
+The run was completed in:  5 minutes and  47 seconds
+
+gridsearch:
+The run was completed in:  395 minutes and  20 seconds
+param grid [3.e-02 2.e+03 6.e+00] has frequecy of 26
+param grid [5.e-02 1.e+03 6.e+00] has frequecy of 4
+
+gridsearch GA:
+The run was completed in:  2046 minutes and  32 seconds

@@ -101,7 +101,7 @@ The pipeline was developed with a modular design approach. We put codes, inputs,
 15. Bonus_MegaTest: Evaluating the models with bigger test cohorts
 16. Bonus_feature_injection: Utilizing graph structures for data augmnetation
 
-<span style="color:blue">Note: each module has its own README file and the structure of subdirectories is unified.</span>
+<span style="color:red">some **Note: each module has its own README file and the structure of subdirectories is unified.** text</span>
 
 
 <!-- LICENSE -->

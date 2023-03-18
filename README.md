@@ -103,6 +103,13 @@ The pipeline was developed with a modular design approach. We put codes, inputs,
 
 <span style="color:red">**Note: each module has its own README file and the structure of subdirectories is unified.**</span>
 $\color{color-code}{your-text-here}$
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 <!-- LICENSE -->
 ## License
